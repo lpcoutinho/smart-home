@@ -1,8 +1,8 @@
 # Smart Home
 
-![GitHub repo size](https://img.shields.io/github/repo-size/lpcoutinho/smart-home)
-<!-- ![GitHub language count](https://img.shields.io/github/languages/count/lpcoutinho/smart-home) -->
+![GitHub repo size](https://img.shields.io/github/repo-size/lpcoutinho/smart-home?style=for-the-badge)
 ![GitHub language](https://img.shields.io/github/languages/top/lpcoutinho/smart-home?style=for-the-badge)
+<!-- ![GitHub language count](https://img.shields.io/github/languages/count/lpcoutinho/smart-home) -->
 <!-- ![GitHub forks](https://img.shields.io/github/forks/iuricode/README-template?style=for-the-badge) -->
 <!-- ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/iuricode/README-template?style=for-the-badge) -->
 <!-- ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/iuricode/README-template?style=for-the-badge) -->
